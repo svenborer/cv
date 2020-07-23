@@ -26,6 +26,9 @@
 
 % Check for obsoleted LaTeX packages
 
+\usepackage[export]{adjustbox}
+\usepackage{multicol}
+
 % Fonts
 \RequirePackage{kpfonts}
 \RequirePackage[fixed]{fontawesome5}
